@@ -69,3 +69,15 @@ After building the project, run the executable:
 ## Controls
 - **Arrow Keys**: Move the character.
 - **Mouse**: Interact with buttons.
+Note for Epitech Students
+=========================
+Using this repository for your Epitech coursework will result in a -42. This repository contains all my projects completed during my 5th semester at Epitech in 2024. Please refrain from submitting any content from this repository as your own work.
+
+License
+=======
+This repository is provided for informational and educational purposes only. All rights to the original projects belong to the author.
+
+Support
+=======
+If you are having issues, please let us know. Contact me via the email on my GitHub profile.
+
